@@ -68,7 +68,7 @@ LIRI is run in the command line.
         Save command and argument to addToFile method.
         Screenshot:
         
-        <img src="liri-node-app/assets/Concert-This.png"><img>
+   <img src="https://raw.githubusercontent.com/Archimedes11/liri-node-app/master/assets/Concert-This.png?raw=true" />
 
     node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.
 
