@@ -1,10 +1,10 @@
 # LIRI-BOT
 
-LIRI-NODE-APP
+# LIRI-NODE-APP
 
-LIRI is like iPhone's SIRI.  However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _language_Interpretation and Recognition Interface.  LIRI will be a command line node app that takes in parameters and gives you back data.  LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+## LIRI is like iPhone's SIRI.  However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _language_Interpretation and Recognition Interface.  LIRI will be a command line node app that takes in parameters and gives you back data.  LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-OVERVIEW: 
+# OVERVIEW: 
 
 In this project we focused on using Node.js in the command line and taking parameters (process.argv)to call a function and display output to the console.
 
@@ -70,12 +70,24 @@ LIRI is run in the command line.
         
    <img src="https://raw.githubusercontent.com/Archimedes11/liri-node-app/master/assets/Concert-This.png?raw=true" />
 
+
+    node liri.js spotify-this-song <song name here> runs the spotifyThis method.
+        If a song is entered, it will send it as a query to the Spotify API and returns the artist's name, song name, preview link, and album.
+        If no argument is given, "The Chair" will be used as a default argument.
+        Save command and argument to addToFile method.
+        Screenshot:
+        
+   <img src="https://raw.githubusercontent.com/Archimedes11/liri-node-app/master/assets/Spotify-This-Song.png?raw=true" />
+        
+        
     node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.
 
         If a movie is entered, it returns the movie title, year, IMDB Rating, RT rating, country, language, plot, and actors.
         If no movie is entered, a default value of "Mr Nobody" is used.
         Save command and argument to addToFile method.
         Screenshot:
+        
+   <img src="https://raw.githubusercontent.com/Archimedes11/liri-node-app/master/assets/Movie-This.png?raw=true" />
 
     node liri.js do-what-it-says runs the doWhatItSays method using the FS module to get a string from the random.txt file.
 
@@ -84,13 +96,17 @@ LIRI is run in the command line.
         The command and query argument are passed to the checkCommand method which then calls the appropriate method.
         Save command and argument to addToFile method.
         Screenshot:
+        
+   <img src="https://raw.githubusercontent.com/Archimedes11/liri-node-app/master/assets/DWIS.png?raw=true" />
+   <img src="https://raw.githubusercontent.com/Archimedes11/liri-node-app/master/assets/DWIS_concert-this.png?raw=true" />
+   <img src="https://raw.githubusercontent.com/Archimedes11/liri-node-app/master/assets/DWIS_movie.png?raw=true" />
 
     The addToFile method uses the FS module to append a string to the log.txt file.
 
         Moment.js is used to getthe current time and format it as [/DD/YYYY].
         Here's the heading of each appended string:
         [MM/DD/YYY] <command-name> <argument>
-        Screenshot
+        Screenshot:
+        
+   <img src="https://raw.githubusercontent.com/Archimedes11/liri-node-app/master/assets/Log.txt_moment.png?raw=true" />
 
-    Log.txt file:
-        log.txt
