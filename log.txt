@@ -1,0 +1,114 @@
+--------------------------------------------------
+[06/29/2020] concert-this blink182
+--------------------------------------------------
+Venue: Cooley Law School Stadium
+Location: Lansing, MI, United States
+Date of Event: 07/10/2020
+
+Venue: Four Chord Music Festival
+Location: Washington, PA, United States
+Date of Event: 07/11/2020
+
+Venue: LeBreton Flats
+Location: Ottawa, ON, Canada
+Date of Event: 07/15/2020
+
+Venue: Harris Park
+Location: London, ON, Canada
+Date of Event: 07/16/2020
+
+
+--------------------------------------------------
+[06/29/2020] movie-this forrest gump
+--------------------------------------------------
+Title: Forrest Gump
+Year: 1994
+IMDB Rating: 8.8/10
+Rotten Tomatoes Rating: 70%
+Country: USA
+Language: English
+Plot: The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.
+Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+
+--------------------------------------------------
+[06/29/2020] spotify-this-song danko/manuel
+--------------------------------------------------
+Artist: Drive-By Truckers
+Song Name: Danko/Manuel
+Preview Link: https://p.scdn.co/mp3-preview/90357a8c1564945ece08639843f5f57badecf04c?cid=8a97d52862dc41fe9d5cb32ab3335120
+Album: The Dirty South
+
+Artist: Jason Isbell and the 400 Unit
+Song Name: Danko / Manuel - Live
+Preview Link: https://p.scdn.co/mp3-preview/6e56cc4bf124bcf81fb5c5543988dac1b6456958?cid=8a97d52862dc41fe9d5cb32ab3335120
+Album: Live from Alabama
+
+Artist: Jason Isbell and the 400 Unit
+Song Name: Danko/Manuel - Live
+Preview Link: https://p.scdn.co/mp3-preview/121d182cae309a24c25ffb375c065b7dfbce90fc?cid=8a97d52862dc41fe9d5cb32ab3335120
+Album: Live At Twist & Shout 11.16.07
+
+Artist: Jason Isbell and the 400 Unit
+Song Name: Danko/Manuel
+Preview Link: https://p.scdn.co/mp3-preview/8b818581d8984d5743cd725f600d5d7ba0d7cbfb?cid=8a97d52862dc41fe9d5cb32ab3335120
+Album: Warren Haynes Presents the Benefit Concert, Vol. 16
+
+Artist: Rick Danko, Richard Manuel & Paul Butterfield
+Song Name: The Shape Im In
+Preview Link: https://p.scdn.co/mp3-preview/25acaef642c1e75b230a3e4b7d54dd031df530f9?cid=8a97d52862dc41fe9d5cb32ab3335120
+Album: Live At The Lone Star Cafe
+
+
+--------------------------------------------------
+[06/29/2020] do-what-it-says "I Want it That Way"
+--------------------------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8a97d52862dc41fe9d5cb32ab3335120
+Album: Millennium
+
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8a97d52862dc41fe9d5cb32ab3335120
+Album: I Want It That Way
+
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8a97d52862dc41fe9d5cb32ab3335120
+Album: Covers Part IV
+
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8a97d52862dc41fe9d5cb32ab3335120
+Album: Beautiful Dreams
+
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: null
+Album: Punk Goes Pop
+
+
+--------------------------------------------------
+[06/29/2020] do-what-it-says "Parasite"
+--------------------------------------------------
+Title: Parasite
+Year: 2019
+IMDB Rating: 8.6/10
+Rotten Tomatoes Rating: 99%
+Country: South Korea
+Language: Korean, English
+Plot: Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.
+Actors: Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo, Woo-sik Choi
+
+--------------------------------------------------
+[06/29/2020] do-what-it-says "Parasite"
+--------------------------------------------------
+Title: Parasite
+Year: 2019
+IMDB Rating: 8.6/10
+Rotten Tomatoes Rating: 99%
+Country: South Korea
+Language: Korean, English
+Plot: Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.
+Actors: Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo, Woo-sik Choi
+
